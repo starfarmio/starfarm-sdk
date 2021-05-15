@@ -14,7 +14,7 @@ describe('Pair', () => {
 
   describe('#getAddress', () => {
     it('returns the correct address', () => {
-      expect(Pair.getAddress(USDC, DAI)).toEqual('0xfFF62299E5Ff3513C6DFF576ad2A8b2C5E4205c9')
+      expect(Pair.getAddress(USDC, DAI)).toEqual('0x0B726eAb44f26f5f6F56c452b586510c8E825F99')
     })
   })
 

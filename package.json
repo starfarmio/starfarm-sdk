@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/becoswap/becoswap-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "becoswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
